@@ -1,4 +1,4 @@
-package ru.starosta.testmvcfirstapp;
+package ru.starosta.testmvcfirstapp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
